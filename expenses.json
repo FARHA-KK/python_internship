@@ -1,0 +1,18 @@
+[
+    {
+        "category": "food",
+        "amount": 10000.0
+    },
+    {
+        "category": "Rent",
+        "amount": 12000.0
+    },
+    {
+        "category": "travel",
+        "amount": 500.0
+    },
+    {
+        "category": "fuel",
+        "amount": 1000.0
+    }
+]

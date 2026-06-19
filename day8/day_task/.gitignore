@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+.env
+
+tasks.db
+*.db
+
+venv/
+.venv/
+
+.vscode/
+.idea/
